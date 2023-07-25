@@ -6,4 +6,3 @@
 
 <p>👋 Hi, I’m Trung</p>
 <p>💼 I'm a Web Developer at <a href="https://lifull-tech.vn">LIFULL Tech Vietnam Co., Ltd</a></p>
-<p>👯 I'm looking to collaborate on future projects</p>
